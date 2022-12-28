@@ -9,4 +9,5 @@ How to listen:
 
 Add the 'Linux' folder into your music collection as an album under the artist folder 'Various Artists'.
 
-An example file structure would be like this: /home/user/Music/Various Artists/Linux/example.mp3
+An example file structure would be like this:
+`/home/user/Music/Various Artists/Linux/example.mp3`
