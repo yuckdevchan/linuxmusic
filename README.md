@@ -1,5 +1,5 @@
 # Linux Music
-<img src="Linux/cover.png" alt="Album Cover Art">
+![Album Cover Art](Linux/cover.png)
 
 A collection of Linux Music, tagged correctly as an album with artists and release year.
 
